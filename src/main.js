@@ -68,7 +68,7 @@ const cardNumberPattern = {
     dispatch: function (appended, dynamicMasked){
         const number = (dynamicMasked.value + appended).replace(/\D/g, "")
         const foundMask = dynamicMasked.compiledMasks.find(function (item) {
-            return number.match(item.regex)
+            return number.match(item.regex) 
         })
 
         console.log(foundMask)
