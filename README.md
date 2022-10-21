@@ -1,5 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
+## Deploy: https://explorer-lab-pi-azure.vercel.app/
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -31,8 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
-
+Projeto desenvolvido durante o Explorer Lab da Rocketseat, onde foram ensinados como adicionar uma máscara a um input utilizando a DOM e também como refletir em tempo real as informações colocadas nos inputs em um lugar da página.
 
 ---
 
